@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CosmicDiscoveries/static/css/main.008964ff.css",
-    "main.js": "/CosmicDiscoveries/static/js/main.28bed66b.js",
+    "main.js": "/CosmicDiscoveries/static/js/main.bb4db096.js",
     "static/js/453.9dc91dfb.chunk.js": "/CosmicDiscoveries/static/js/453.9dc91dfb.chunk.js",
     "static/media/Kiit Peak.png": "/CosmicDiscoveries/static/media/Kiit Peak.906dbcb180d440881352.png",
     "static/media/Arecibo.png": "/CosmicDiscoveries/static/media/Arecibo.703342b0f4cbc652e113.png",
@@ -34,11 +34,11 @@
     "static/media/chòm sao Ursa.jpg": "/CosmicDiscoveries/static/media/chòm sao Ursa.7489fcb6e197a9c081ea.jpg",
     "index.html": "/CosmicDiscoveries/index.html",
     "main.008964ff.css.map": "/CosmicDiscoveries/static/css/main.008964ff.css.map",
-    "main.28bed66b.js.map": "/CosmicDiscoveries/static/js/main.28bed66b.js.map",
+    "main.bb4db096.js.map": "/CosmicDiscoveries/static/js/main.bb4db096.js.map",
     "453.9dc91dfb.chunk.js.map": "/CosmicDiscoveries/static/js/453.9dc91dfb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.008964ff.css",
-    "static/js/main.28bed66b.js"
+    "static/js/main.bb4db096.js"
   ]
 }
